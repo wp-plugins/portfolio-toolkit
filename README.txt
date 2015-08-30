@@ -1,9 +1,9 @@
 === Portfolio Toolkit ===
 Contributors: iamdmitrymayorov
 Tags: portfolio, post type, cpt
-Requires at least: 3.9.0
-Tested up to: 4.2
-Stable tag: 0.1.0
+Requires at least: 4.1
+Tested up to: 4.3
+Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,6 +69,10 @@ Absolutely. You are welcome to report issues and submit pull requests on [Github
 1. Project Details metabox
 
 == Changelog ==
+
+= 0.1.1 =
+
+* Small improvements
 
 = 0.1.0 =
 
