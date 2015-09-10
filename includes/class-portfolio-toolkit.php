@@ -1,5 +1,4 @@
 <?php
-
 /**
  * The file that defines the core plugin class
  *
@@ -67,7 +66,7 @@ class Portfolio_Toolkit {
 	public function __construct() {
 
 		$this->plugin_name = 'portfolio-toolkit';
-		$this->version = '0.1.2';
+		$this->version = '0.1.3';
 
 		$this->load_dependencies();
 		$this->set_locale();
@@ -229,5 +228,4 @@ class Portfolio_Toolkit {
 	public function get_version() {
 		return $this->version;
 	}
-
 }
