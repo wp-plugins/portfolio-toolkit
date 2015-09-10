@@ -3,7 +3,7 @@ Contributors: iamdmitrymayorov
 Tags: portfolio, post type, cpt
 Requires at least: 4.1
 Tested up to: 4.3
-Stable tag: 0.1.2
+Stable tag: 0.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,6 +12,7 @@ Adds portfolio functionality to your WordPress website.
 == Description ==
 
 Portfolio Toolkit adds 'portfolio' post type with two taxonomies (Category and Tag). It also adds custom metabox with three fields: 'Client', 'Date' and 'URL'.
+Check out [my website](http://dmitrymayorov.com/2015/06/16/introducing-portfolio-toolkit/) for more info about the plugin.
 
 == Installation ==
 
@@ -43,13 +44,13 @@ Portfolio Toolkit adds 'portfolio' post type with two taxonomies (Category and T
 
 = Who is this plugin for? =
 
-Target audience of this plugin is mainly theme developers who are willing to create a portfolio theme or want to add portfolio functionality to an existing one.
+Target audience of this plugin is mainly theme developers that to create a portfolio theme or want to add portfolio functionality to an existing one.
 
 = How is this plugin different from Jetpack portfolio module or similar plugins? =
 
 This plugin is actually inspired by Jetpack portfolio module and [Portfolio Post Type](https://github.com/devinsays/portfolio-post-type) by Devin Price and Gary Jones. However, Portfolio Toolkit is built with [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate), which follows a slightly different approach in building plugins. On top of that, Portfolio Toolkit adds custom metabox with three fields.
 
-= What fields are included in a metabox? =
+= What fields are included? =
 
 There are three meta boxes at the moment:  
 **Client** - Client name for the project (e.g. Apple)  
@@ -70,10 +71,18 @@ Absolutely. You are welcome to report issues and submit pull requests on [Github
 
 == Changelog ==
 
+= 0.1.3 =
+
+* Minor improvements and bug fixes.
+
+= 0.1.2 =
+
+* Tested with WordPress 4.3
+
 = 0.1.1 =
 
-* Small improvements
+* Minor improvements.
 
 = 0.1.0 =
 
-* Initial Release
+* Initial Release.
